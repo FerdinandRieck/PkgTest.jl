@@ -3,6 +3,9 @@ uuid = "9658160f-ca6f-4036-9cb6-df026f85be8f"
 authors = ["Ferdinand Rieck <ferdinand.rieck@smail.emt.h-brs.de>"]
 version = "0.1.0"
 
+[deps]
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
 [compat]
 julia = "1.8.1"
 
