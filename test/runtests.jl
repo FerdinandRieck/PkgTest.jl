@@ -2,5 +2,5 @@ using PkgTest
 using Test
 
 @testset "PkgTest.jl" begin
-    # Write your tests here.
+    include("function_tests.jl")
 end
